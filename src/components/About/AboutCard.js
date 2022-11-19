@@ -8,30 +8,21 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+            My interests include developing the mobile and web development.
+            I am looking forward to new opportunities and challenges.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            My Work Experience!!!
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Writting Tech Blogs
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-          </ul>
-
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
-          </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <label className="about-activity">
+          <span style={{marginBottom: "5px"}}>
+          <ImPointRight />  <span style={{ backgroundColor: "#700c86", padding: "5px 5px", borderRadius: "5px" }}>Atom Group</span> - Full Stack Developer from June 2022-Present
+          </span>
+          <br />
+            <span>
+            <ImPointRight /> <span style={{ backgroundColor: "#700c86", padding: "5px 5px", borderRadius: "5px" }}>AY International</span> - Web Developer from Aug 2021-Nov 2021
+            </span>
+          </label>
         </blockquote>
       </Card.Body>
     </Card>
