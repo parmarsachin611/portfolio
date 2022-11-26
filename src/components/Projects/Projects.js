@@ -30,7 +30,7 @@ function Projects() {
               imgPath={hr4tally}
               isBlog={false}
               title="HR4Tally.in"
-              description="Build Web App from Atom Group Internship for the HR of Small and Medium Bussiness to manage their company HR which includes the daily attendance of employees based on geolocation, creating multiple companies, defining the pay heads, computing the salary based on attendance or flat rate and import the data into tally."
+              description="Hr4Tally.in is the HR Management Platform for Small and Medium Bussiness to manage their company HR which includes the daily attendance of employees based on geolocation, creating multiple companies, defining the pay heads, computing the salary based on attendance or flat rate and import the data into tally."
               // ghLink="https://github.com/soumyajit4419/Chatify"
               demoLink="https://staging.hr4tally.in/"
             />
